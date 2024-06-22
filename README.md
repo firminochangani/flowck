@@ -1,1 +1,1 @@
-Senior Engineer at London-based startup [GetHarley](https://getharley.com), concurrently building [subscribeddotdev](https://github.com/subscribeddotdev) and [dobermanndotdev](https://github.com/dobermanndotdev) with Go/Golang, Postgres and RabbitMQ on the backend and React/Next.js on the frontend.
+Senior Engineer at London-based startup [GetHarley](https://getharley.com), building [subscribeddotdev](https://github.com/subscribeddotdev) and [dobermanndotdev](https://github.com/dobermanndotdev) as side-projects.
